@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Tom Laird-McConnell",
+  "classifications": [ "blazor", "webwindow", "app" ],
+  "identity": "Iciclecreek.BlazorDesktopApp",
+  "name": "Create a Blazor desktop application project.",
+  "shortName": "blazordesktopapp",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
